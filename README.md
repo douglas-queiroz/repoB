@@ -1,2 +1,2 @@
 # repoB
-develop version 2.0
+develop version 2.1
